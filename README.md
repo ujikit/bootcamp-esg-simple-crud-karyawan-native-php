@@ -1,4 +1,4 @@
-# Tata Cara Login
+# Tata Cara Penggunaan (Usage)
 
 ## Akun
 1. username : kar1 , password : kar1 -> hakakses : Admin (1 Anggota)
